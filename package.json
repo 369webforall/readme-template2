@@ -1,0 +1,26 @@
+{
+  "name": "readme-template2",
+  "version": "1.0.0",
+  "description": "Learning about creating professional readme file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/369webforall/readme-template2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/369webforall/readme-template2/issues"
+  },
+  "homepage": "https://github.com/369webforall/readme-template2#readme",
+  "devDependencies": {
+    "eslint": "^8.38.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.7"
+  }
+}
